@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=VitaliyPryyemskyy&theme=cobalt&show_icons=true&hide_border=true&count_private=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitaliyPryyemskyy&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 
 ## Hello community 🙃 I’m Vitaliy 
 ### ***About me:*** 
