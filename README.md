@@ -1,6 +1,8 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitaliyPryyemskyy&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitaliyPryyemskyy&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyPryyemskyy&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyPryyemskyy&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 ## Hello community 🙃 I’m Vitaliy 
 ### ***About me:*** 
